@@ -1,0 +1,31 @@
+student:
+  firstname: Valeria
+  lastname: Prozorova
+  gender: W
+  birthday: 19.11.1998
+  age: 23
+  height: 1.7
+  married: false
+  insuranceId: null
+  note: "This work is done by \n Valeria Prozorova"
+  favquote: >
+    You want to make things right?
+    Too bad.
+    Nothing's ever right
+  education: |
+    Kindergarten
+    Primary school
+    Middle school
+    High school
+    University
+  pets: [Snezha, Simon]
+  family:
+    - mom
+    - dad
+    - sister
+  address:
+    country: Russia
+    city: Saint-Petersburg
+    postcode: 191144
+
+    
