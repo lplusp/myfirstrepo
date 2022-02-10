@@ -1,0 +1,23 @@
+{
+  "firstname": "Valeria",
+  "lastname": "Prozorova",
+  "gender": "W",
+  "birthday": "19.11.1998",
+  "age": 23,
+  "height": 1.7,
+  "married": false,
+  "insuranceId": null,
+  "pets": ["Snezha", "Simon"],
+  "grades": [5, 5, 4, 4, 5, 4],
+  "address": {
+    "country": "Russia",
+    "city": "Saint-Petersburg",
+    "postcode": 191144
+  },
+  "education": {
+    "country": "Russia",
+    "city": "Krasnodar",
+    "higherEd": true,
+    "degree": "bachelor"
+  }
+}
